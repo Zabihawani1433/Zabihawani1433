@@ -1,8 +1,5 @@
 ![Alt text](https://raw.githubusercontent.com/Zabihawani1433/forclient/refs/heads/main/welcom.jpg)
 
-## Hi there 👋 I am Zabih Awan
-![Alt text](https://raw.githubusercontent.com/Zabihawani1433/forclient/refs/heads/main/white%20back.jpg)
-
 ### 🔭 I’m currently working on 
 - Digital Stock Register 
 
