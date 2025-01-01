@@ -1,7 +1,6 @@
+![Alt text]([image_url](https://raw.githubusercontent.com/Zabihawani1433/forclient/refs/heads/main/welcom.jpg))
+
 ## Hi there 👋
-
-
-**Zabihawani1433/Zabihawani1433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
