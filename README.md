@@ -1,4 +1,4 @@
-![Alt text]([image_url](https://raw.githubusercontent.com/Zabihawani1433/forclient/refs/heads/main/welcom.jpg))
+![Alt text](https://raw.githubusercontent.com/Zabihawani1433/forclient/refs/heads/main/welcom.jpg)
 
 ## Hi there 👋
 
